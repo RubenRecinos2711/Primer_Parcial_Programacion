@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\bin\Debug\netstandard2.0\Primer Parcial.deps.json
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\bin\Debug\netstandard2.0\Primer Parcial.dll
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\bin\Debug\netstandard2.0\ref\Primer Parcial.dll
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\bin\Debug\netstandard2.0\Primer Parcial.pdb
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Pag1.xaml.g.cs
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.dll
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\ref\Primer Parcial.dll
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Primer Parcial.pdb
+C:\Users\LENOVO\source\repos\Primer Parcial\Primer Parcial\Primer Parcial\obj\Debug\netstandard2.0\Pag2.xaml.g.cs

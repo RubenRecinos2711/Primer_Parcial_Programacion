@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Primer_Parcial.Pag2">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Acontinuacion veras un programa con el cual podremos determinar en que numero esta pensando" FontSize="Large" HorizontalTextAlignment="Center"/>
+            <Label Text="............................................................" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="Para comenzar multiplica el numero que quieras por 2" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="(xNum * 2)" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="............................................................" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="Al resultado de la multipliacion sumale 8" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="(Result + 8)" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="............................................................" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="Ahora multiplica el resultado por 5" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="(Result * 5)" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="............................................................" FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text="Ingresa Tu Resultado Final" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <Label Text=""/>
+            <Entry x:Name="ingRes1"
+                   Keyboard="Numeric"/>
+            <Button Text="Hacer La Magia" x:Name="btnmag" Clicked="btnmag_Clicked"/>
+            <Label Text="......" FontSize="Small" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" x:Name="lblRes2"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
